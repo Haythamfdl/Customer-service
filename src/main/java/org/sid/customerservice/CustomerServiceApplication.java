@@ -24,5 +24,4 @@ public class CustomerServiceApplication {
             customerRepository.findAll().forEach(System.out::println);
         };
     }
-
 }
